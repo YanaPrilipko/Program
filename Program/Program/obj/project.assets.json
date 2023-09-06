@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Рoзробка С#\\Program\\Program\\Program\\Program\\Program.csproj",
-      "projectName": "Program",
-      "projectPath": "D:\\Рoзробка С#\\Program\\Program\\Program\\Program\\Program.csproj",
+      "projectUniqueName": "D:\\Рoзробка С#\\Program\\Program\\Program\\Program\\Student.csproj",
+      "projectName": "Student",
+      "projectPath": "D:\\Рoзробка С#\\Program\\Program\\Program\\Program\\Student.csproj",
       "packagesPath": "C:\\Users\\Яна\\.nuget\\packages\\",
       "outputPath": "D:\\Рoзробка С#\\Program\\Program\\Program\\Program\\obj\\",
       "projectStyle": "PackageReference",

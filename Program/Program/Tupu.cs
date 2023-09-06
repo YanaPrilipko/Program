@@ -1,7 +1,9 @@
 ﻿
-double a = 4.3;
+using Student;
+
+/*double a = 4.3;
 short b = 10;
-decimal k = (decimal) (a + b);
+decimal k = (decimal)(a + b);
 Console.WriteLine(k);
 int c = 5;
 int l = c * b;
@@ -17,7 +19,7 @@ Console.WriteLine($"Sum of {number1} and {number2} is {number1 + number2}");
 
 Console.Write("Enter a number to calculate the circle: ");
 int x = int.Parse(Console.ReadLine());
-double pi = 2 *Math.PI * x;
+double pi = 2 * Math.PI * x;
 
 Console.WriteLine($"The length of the circle is {pi}");
 //DateTime dateTime = new DateTime.Now;
@@ -28,4 +30,7 @@ var difference = dateTime1.Subtract(DateTime.Now).Days;
 var difference1 = DateTime.Now.Subtract(dateTime2).Days;
 
 Console.WriteLine($"{difference} days left to New Year");
-Console.WriteLine($"{difference1} days passed from New Year");
+Console.WriteLine($"{difference1} days passed from New Year");*/
+
+
+Operators.Parcer();

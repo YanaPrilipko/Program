@@ -1,0 +1,15 @@
+D:\Рoзробка С#\Program\Program\Program\Program\bin\Debug\net6.0\Student.exe
+D:\Рoзробка С#\Program\Program\Program\Program\bin\Debug\net6.0\Student.deps.json
+D:\Рoзробка С#\Program\Program\Program\Program\bin\Debug\net6.0\Student.runtimeconfig.json
+D:\Рoзробка С#\Program\Program\Program\Program\bin\Debug\net6.0\Student.dll
+D:\Рoзробка С#\Program\Program\Program\Program\bin\Debug\net6.0\Student.pdb
+D:\Рoзробка С#\Program\Program\Program\Program\obj\Debug\net6.0\Student.csproj.AssemblyReference.cache
+D:\Рoзробка С#\Program\Program\Program\Program\obj\Debug\net6.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рoзробка С#\Program\Program\Program\Program\obj\Debug\net6.0\Student.AssemblyInfoInputs.cache
+D:\Рoзробка С#\Program\Program\Program\Program\obj\Debug\net6.0\Student.AssemblyInfo.cs
+D:\Рoзробка С#\Program\Program\Program\Program\obj\Debug\net6.0\Student.csproj.CoreCompileInputs.cache
+D:\Рoзробка С#\Program\Program\Program\Program\obj\Debug\net6.0\Student.dll
+D:\Рoзробка С#\Program\Program\Program\Program\obj\Debug\net6.0\refint\Student.dll
+D:\Рoзробка С#\Program\Program\Program\Program\obj\Debug\net6.0\Student.pdb
+D:\Рoзробка С#\Program\Program\Program\Program\obj\Debug\net6.0\Student.genruntimeconfig.cache
+D:\Рoзробка С#\Program\Program\Program\Program\obj\Debug\net6.0\ref\Student.dll
