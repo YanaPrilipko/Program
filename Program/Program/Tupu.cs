@@ -1,7 +1,7 @@
 ﻿
 using Student;
 
-/*double a = 4.3;
+/*int a = 4.3;
 short b = 10;
 decimal k = (decimal)(a + b);
 Console.WriteLine(k);
@@ -19,7 +19,7 @@ Console.WriteLine($"Sum of {number1} and {number2} is {number1 + number2}");
 
 Console.Write("Enter a number to calculate the circle: ");
 int x = int.Parse(Console.ReadLine());
-double pi = 2 * Math.PI * x;
+int pi = 2 * Math.PI * x;
 
 Console.WriteLine($"The length of the circle is {pi}");
 //DateTime dateTime = new DateTime.Now;

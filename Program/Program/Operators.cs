@@ -10,14 +10,14 @@ namespace Student
     {
         public static void Parcer()
         {
-            double sum1 = 0;
-            double sum2 = 0;
-            double x;
-            double y;
+            int sum1 = 0;
+            int sum2 = 0;
+            int x;
+            int y;
             Console.Write("Enter the digit of the initial value of Х?: ");
-            double number1 = double.Parse(Console.ReadLine());
+            int number1 = int.Parse(Console.ReadLine());
             Console.Write("Enter the digit of the final value of x?: ");
-            double number2 = double.Parse(Console.ReadLine());
+            int number2 = int.Parse(Console.ReadLine());
 
             if (number1 < number2)
             {
@@ -31,7 +31,7 @@ namespace Student
             }
 
 
-            for (double i = x; i <= y; i++)
+            for (int i = x; i <= y; i++)
             {
                 if (i % 2 == 0)
                 {
