@@ -33,4 +33,49 @@ Console.WriteLine($"{difference} days left to New Year");
 Console.WriteLine($"{difference1} days passed from New Year");*/
 
 
-Operators.Parcer();
+//Operators.Parcer();
+/* int sum(int from, int to)
+{
+    if (from > to) return sum(to, from);
+    if (from == to) return from;
+    return from + sum(from + 1, to);
+}
+Console.WriteLine($"{sum(1,10)}");*/
+
+
+//завдання 5 Методи
+
+void Number()
+{
+    Console.Write("Please enter first number: ");
+    int x = int.Parse(Console.ReadLine());
+    Console.Write("Please enter first number: ");
+    int y = int.Parse(Console.ReadLine());
+    int sum2;
+    bool result;
+    result = TrySumIFOdd(x, y, out sum2);
+    Console.WriteLine($"{sum2} ");
+    Console.WriteLine($"{result} ");
+}
+
+bool TrySumIFOdd(int x, int y, out int sum)
+{
+    sum = x + y;
+    if (sum % 2 != 0) return true;
+    return false;
+}
+Number();
+
+int result = Method.MaxNumber(5, 6);
+int result1 = Method.MaxNumber(5, 6, 7);
+int result2 = Method.MaxNumber(5, 6, 10);
+int result3 = Method.MinNumber(5, 6);
+int result4 = Method.MinNumber(5, 6, 10);
+int result5 = Method.MinNumber(5, 6, 7, 9);
+
+Console.WriteLine($"{result}");
+Console.WriteLine($"{result1}");
+Console.WriteLine($"{result2}");
+Console.WriteLine($"{result3}");
+Console.WriteLine($"{result4}");
+Console.WriteLine($"{result5}");
